@@ -1,2 +1,20 @@
-Helllo, This is akshara!!
 
+1. install git
+2. create repository
+	a. cd Desktop
+	b. mkdir myproject
+	c. cd myproject
+	d. git init
+3. add new file to repo
+	a.touch hello.txt
+	b. git status
+	c. git add hello.txt
+	d. git commit -m "First commit"
+4. create new branch
+	a. git branch
+	b. git checkout -b my-new-branch
+5. create new repository
+	a. git remote add origin https://github.com/akshara14n102/project.git
+	b. git push -u origin master
+	c. git push origin my-new-branch
+6. merge pull requests
