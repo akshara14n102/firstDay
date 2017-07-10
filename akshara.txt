@@ -1,4 +1,4 @@
-My First Day
+My First Day on Solioton
 
 1. install git
 2. create repository
