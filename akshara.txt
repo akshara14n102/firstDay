@@ -18,3 +18,5 @@
 	b. git push -u origin master
 	c. git push origin my-new-branch
 6. merge pull requests
+7. get changes back
+	a. git pull origin master
