@@ -21,3 +21,6 @@ My First Day
 6. merge pull requests
 7. get changes back
 	a. git pull origin master
+
+
+--AKSHARA T
